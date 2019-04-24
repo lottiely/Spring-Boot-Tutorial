@@ -1,3 +1,12 @@
+## Output
+A webpage that says: 
+Hi :)
+
+## Topics
+- SpringApplication
+- RestController
+- RequestMapping
+
 ## Related Tutorials
 - https://code.visualstudio.com/docs/java/java-spring-boot
 
